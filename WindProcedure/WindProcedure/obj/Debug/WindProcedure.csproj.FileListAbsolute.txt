@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindProcedure\WindProcedure\bin\Debug\WindProcedure.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindProcedure\WindProcedure\bin\Debug\WindProcedure.exe
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindProcedure\WindProcedure\bin\Debug\WindProcedure.pdb
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindProcedure\WindProcedure\obj\Debug\WindProcedure.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindProcedure\WindProcedure\obj\Debug\WindProcedure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindProcedure\WindProcedure\obj\Debug\WindProcedure.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindProcedure\WindProcedure\obj\Debug\WindProcedure.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindProcedure\WindProcedure\obj\Debug\WindProcedure.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindProcedure\WindProcedure\obj\Debug\WindProcedure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindProcedure\WindProcedure\obj\Debug\WindProcedure.exe
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindProcedure\WindProcedure\obj\Debug\WindProcedure.pdb

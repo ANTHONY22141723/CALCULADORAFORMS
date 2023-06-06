@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\CalculadoraCen\CalculadoraCen\bin\Debug\CalculadoraCen.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\CalculadoraCen\CalculadoraCen\bin\Debug\CalculadoraCen.exe
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\CalculadoraCen\CalculadoraCen\bin\Debug\CalculadoraCen.pdb
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\CalculadoraCen\CalculadoraCen\obj\Debug\CalculadoraCen.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\CalculadoraCen\CalculadoraCen\obj\Debug\CalculadoraCen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\CalculadoraCen\CalculadoraCen\obj\Debug\CalculadoraCen.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\CalculadoraCen\CalculadoraCen\obj\Debug\CalculadoraCen.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\CalculadoraCen\CalculadoraCen\obj\Debug\CalculadoraCen.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\CalculadoraCen\CalculadoraCen\obj\Debug\CalculadoraCen.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\CalculadoraCen\CalculadoraCen\obj\Debug\CalculadoraCen.exe
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\CalculadoraCen\CalculadoraCen\obj\Debug\CalculadoraCen.pdb

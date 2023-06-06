@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\bin\Debug\WindHospital.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\bin\Debug\WindHospital.exe
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\bin\Debug\WindHospital.pdb
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\obj\Debug\WindHospital.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\obj\Debug\WindHospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\obj\Debug\WindHospital.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\obj\Debug\WindHospital.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\obj\Debug\WindHospital.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\obj\Debug\WindHospital.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\obj\Debug\WindHospital.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\obj\Debug\WindHospital.exe
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\obj\Debug\WindHospital.pdb
+C:\Users\Usuario\OneDrive\Escritorio\CalculadoraForms\WindHospital\WindHospital\obj\Debug\WindHospital.storedProcedure.resources

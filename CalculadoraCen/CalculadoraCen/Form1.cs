@@ -491,8 +491,6 @@ namespace CalculadoraCen
                      
                     }
 
-                    
-
                      else num2 = txtDisplay.Text += boton.Text;
 
 
